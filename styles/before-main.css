@@ -25,6 +25,10 @@
  *
  */
 
+:focus {
+  outline: 3px solid rgba(23, 171, 23, 0.8) !important;
+}
+
  #logo {
    width:100%;
    max-width:400px;
