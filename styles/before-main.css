@@ -85,6 +85,6 @@ a:hover {
  *
  */
 a:hover, a:focus, input:focus {
-  outline: none;
-  border-color: transparent;
+  outline: 3px solid rgba(23, 171, 23, 0.8);
+  border-color: Black;
 }
